@@ -2,3 +2,8 @@ This is a mirror of http://cscope.sourceforge.net/cscope_maps.vim
 
 It magically assigns awesome cscope maps to your vim sessions turning your
 VIM session into a superior IDE :)
+
+# Install
+```
+$ ./install.sh
+```
